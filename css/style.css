@@ -1,8 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+  /* common style*/
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
 /* Banner section  */
 .banner-section{
     background-color:  #264653;
     width: 100%;
-    height: 580px;
+    height: 670px;
+}
+.top-text{
+    font-weight: 600;
+    font-size: 48px;
+}
+.small{
+    font-size: 14px;
+    font-weight: 300;
+}
+.top-img img{
+  width: 90%;
+ 
 }
 /* Banner section  */
 
