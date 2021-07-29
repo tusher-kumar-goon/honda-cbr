@@ -44,3 +44,18 @@ margin-left: 30px;
      font-weight: 600;
 }
 /* <!-- service area start --> */
+
+/* modal area */
+.modal-text{
+    color: #E76F51;
+   
+}
+.button-modal{
+   background-color: #E76F51;
+   border: 0;
+   width: 168px;
+  height: 44px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
